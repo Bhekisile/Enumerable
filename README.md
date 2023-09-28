@@ -10,6 +10,7 @@
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -19,7 +20,7 @@
 
 # 📖 [Ruby Enumerable] <a name="about-project"></a>
 
-**[Ruby Enumerable]** is a project demonstrating the use of module inside class. It implements a collection of *each, #all, #any and #filter methods.
+**[Ruby Enumerable]** is a project demonstrating the use of modules inside a class. It implements a collection of #each, #all, #any, and #filter methods within the module.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,6 +79,14 @@ Example commands:
 - GitHub: [@githubhandle](https://github.com/arnoldnekemiah)
 - Twitter: [@twitterhandle](https://twitter.com/arnoldikonde)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/arnoldnekemiah)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Include more classes such as Range ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
